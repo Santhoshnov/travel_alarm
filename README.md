@@ -1,6 +1,8 @@
 # travel_alarm
 
-A new Flutter project.
+Travel Alarm alerts you when you near your chosen destination by monitoring your location and sending a notification.
+
+Tech Stack - Flutter
 
 ## Getting Started
 
